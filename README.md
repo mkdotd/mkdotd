@@ -79,19 +79,17 @@ I'm a seasoned developer consistently exceeding expectations, mostly my own, in 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> **Featured Projects**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> **Repositories**
 
 <div align="center">
   
-| 🃏 **[Poker Planning](https://github.com/mkdotd/VCPokerPlanning)** | 🛠️ **[DSA Practice](https://github.com/mkdotd/NV)** |
+| **[Poker Planning](https://github.com/mkdotd/VCPokerPlanning)** | **[DSA Practice](https://github.com/mkdotd/NV)** |
 |:---:|:---:|
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 | Interactive poker planning for agile teams | Daily dose of data structures and algorithms |
-
-| 📚 **[SMProjectIM](https://github.com/mkdotd/SMProjectIM)** | 🚀 **More Projects Coming Soon** |
-|:---:|:---:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-ff69b4?style=flat-square) |
-| Software maintenance methodologies | Stay tuned for exciting new projects! |
+| **[SMProjectIM](https://github.com/mkdotd/SMProjectIM)** | **[Global Shopping](https://github.com/mkdotd/GlobalShopping)** |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| Software maintenance methodologies | Data intensive systems course work |
 
 </div>
 
@@ -139,7 +137,7 @@ I'm a seasoned developer consistently exceeding expectations, mostly my own, in 
 <!-- ## 🌟 What I'm Currently Working On -->
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Let's Connect and have a Chat!**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Reach out to me on!**
 
 <div align="center">
 
