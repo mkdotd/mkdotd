@@ -90,6 +90,9 @@ I'm a seasoned developer consistently exceeding expectations, mostly my own, in 
 | **[SMProjectIM](https://github.com/mkdotd/SMProjectIM)** | **[Global Shopping](https://github.com/mkdotd/GlobalShopping)** |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 | Software maintenance methodologies | Data intensive systems course work |
+| **[AspireIntegration](https://github.com/mkdotd/AspireIntegration)** |  |
+| ![](https://img.shields.io/badge/Aspire-9.0-purple) | |
+| Aspire hands on | |
 
 </div>
 
